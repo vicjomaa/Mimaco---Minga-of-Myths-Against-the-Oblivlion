@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 13308582582f2174f926a8d664ae69dc
+timeCreated: 1522251399
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pause: {fileID: 114469840687395506, guid: b7773cb06d93e7149a3f56d0170e5756, type: 2}
+  - close: {fileID: 114175718694944540, guid: c708f14872320ae4c97ddb03dcd262f7, type: 2}
+  - _settings: {instanceID: 0}
+  - _menu: {instanceID: 0}
+  - _winLevel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

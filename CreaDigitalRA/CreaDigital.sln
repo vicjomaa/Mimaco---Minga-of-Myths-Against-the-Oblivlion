@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreaDigital", "CreaDigital.csproj", "{9914906D-E253-2D46-ED75-38A435FB3A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreaDigital.Editor", "CreaDigital.Editor.csproj", "{F4221DF9-B5A6-1CE0-41ED-91E502A0F927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9914906D-E253-2D46-ED75-38A435FB3A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914906D-E253-2D46-ED75-38A435FB3A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914906D-E253-2D46-ED75-38A435FB3A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914906D-E253-2D46-ED75-38A435FB3A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4221DF9-B5A6-1CE0-41ED-91E502A0F927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4221DF9-B5A6-1CE0-41ED-91E502A0F927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4221DF9-B5A6-1CE0-41ED-91E502A0F927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4221DF9-B5A6-1CE0-41ED-91E502A0F927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

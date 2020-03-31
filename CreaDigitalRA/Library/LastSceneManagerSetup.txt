@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/AugmentedReality.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/juego.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/INTRO.unity
+  isLoaded: 1
+  isActive: 1
