@@ -25,10 +25,10 @@ the region that you recovered from oblivion.
 
 
 ## Created by ✒️
-Critertec S.A.S
-Pedagogic Orientation: Nataly Opazo.
-UX design: Natalia pinzón y Jaime Rodríguez.
-AR / art & animation: Nelson Lopez y Satnep Fandiño
-Scriptwriter: Oscar Pico.
-Sound: Daniel Moreno.
-Programmer : Victor Mahecha.
+* Critertec S.A.S
+* Pedagogic Orientation: Nataly Opazo.
+* UX design: Natalia pinzón y Jaime Rodríguez.
+* AR / art & animation: Nelson Lopez y Satnep Fandiño
+* Scriptwriter: Oscar Pico.
+* Sound: Daniel Moreno.
+* Programmer : Victor Mahecha.
