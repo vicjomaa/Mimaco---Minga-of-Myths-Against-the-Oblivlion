@@ -16,7 +16,7 @@ challenge progresses, the player acquires bonuses
 related to gastronomy that enhance their skills in
 the game.
 
-
+<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim1.png">
 
 If the challenge is overcome, the player wins a
 physical badge associated with an animal of the
