@@ -2,7 +2,7 @@
 
 The main objective of this augmented reality game is to rescue the traditions of Colombia through a musical journey around the 6 geographical regions of the country. The experience begins with a minga* formed by local mythological characters, who share their concern for the lack of knowledge of the children about the ancestral culture. These characters are committed to recovering that traditions with the player's collaboration. Each mission takes place in a representative place of each region, where a musical challenge with typical instruments and songs of the area must be solved. As the challenge progresses, the player acquires bonuses related to gastronomy that enhance their skills in the game.
 
-<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim1.png" height="24" width="48">
+<image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim1.png" height="384" width="683">
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim2.png"  >
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim3.png" >
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim4.png"  >
