@@ -4,15 +4,15 @@ The main objective of this augmented reality game is to rescue the traditions of
 
 
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim1.png" height="128" width="225"><image/>
-* **01**  Minga of mythological characters
+* **01**  Minga of mythological characters <br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim2.png" height="128" width="225"><image/>
-* **02**  First mision is opened by AR region card.
+* **02**  First mision is opened by AR region card.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim3.png" height="128" width="225" ><image/>
-* **03**  Musical challenge with traditional gastronomic content close to guitar hero.
+* **03**  Musical challenge with traditional gastronomic content close to guitar hero.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim4.png" height="128" width="225"><image/>
-* **04**  A mission overcome unblocks a badge activated by AR.
+* **04**  A mission overcome unblocks a badge activated by AR.<br>
 <image src="https://media.githubusercontent.com/media/vicjomaa/Mimaco-Minga-of-Myths-Against-the-Oblivion/master/images/mim5.png" height="128" width="225"><image/>
-* **05**  The badge recover complete the AR region card.
+* **05**  The badge recover complete the AR region card.<br>
 
 If the challenge is overcome, the player wins a physical badge associated with an animal of the  region. This prize unlocks hidden content in AR of
 the region that you recovered from oblivion.
