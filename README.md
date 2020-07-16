@@ -23,9 +23,11 @@ physical badge associated with an animal of the
 region. This prize unlocks hidden content in AR of
 the region that you recovered from oblivion.
 
+## Construido con 🛠️
+* Unity2017.  - El framework web usado
 
 
-
+## Autores ✒️
 Critertec S.A.S
 Pedagogic Orientation: Nataly Opazo.
 UX design: Natalia pinzón y Jaime Rodríguez.
